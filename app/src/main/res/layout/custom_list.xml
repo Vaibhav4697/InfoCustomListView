@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/primaryTextColor"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/name_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@id/image_view"
+        android:layout_toRightOf="@id/image_view"
+        android:paddingBottom="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="35dp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/image_view"
+        android:layout_width="150dp"
+        android:layout_height="150dp" />
+
+    <TextView
+        android:id="@+id/team_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/name_text_view"
+        android:layout_toEndOf="@id/image_view"
+        android:layout_toRightOf="@id/image_view"
+        android:paddingTop="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/secondaryTextColor"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/delete_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/image_view"
+        android:layout_toEndOf="@id/image_view"
+        android:layout_toRightOf="@id/image_view"
+        android:text="Delete" />
+
+</RelativeLayout>
