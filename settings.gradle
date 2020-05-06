@@ -1,0 +1,2 @@
+rootProject.name='InfoCustomListView'
+include ':app'
