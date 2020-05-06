@@ -6,4 +6,4 @@ The ListView We Are Going to Make?
 1. Before moving ahead, I would like to show you what we will be making. So here is the video of the Customized ListView.
 2. You can see each item in our ListView has an ImageView, Two TextViews, and a Button. Now you can also change the look to whatever you want.
 
-[![Example Video]()](https://youtu.be/0JlUzjqSpEI)
+[![Example Video](https://github.com/Vaibhav4697/InfoCustomListView/blob/master/screenshot.jpeg)](https://youtu.be/0JlUzjqSpEI)
