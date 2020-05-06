@@ -1,0 +1,3 @@
+Custom ListView Android – Building Custom ListView with Images
+
+So folks here is an android application which is InfoCustomListView Android. We might already know about making a simple ListView for an application. And then this thought comes, “Can We customize the ListView?“. Then the answer is YES. We can customize it as we want.  So whatever design is in our mind for our ListView we can make it easier. This android application will help is in learning “How to Customize a ListView in Android?”. So let’s begin.
